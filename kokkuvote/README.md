@@ -16,3 +16,5 @@ Ma arvan, et kasutan GitHubi ka edaspidi. See sobib hästi õppematerjalide, dok
 
 Selle töö juures oli kõige raskem harude ja Pull Requestide kasutamine. Kõige lihtsam oli failide loomine ja README dokumentide täitmine. Töö käigus õppisin GitHubi põhifunktsioone ning sain paremini aru versioonihaldusest.
 
+GitHub on kasulik tööriist meeskonnatööks ja versioonihalduseks.
+
