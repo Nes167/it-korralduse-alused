@@ -23,3 +23,4 @@ Kui ettevõte automatiseerib käsitsi tehtava aruandluse, väheneb ajakulu ja su
 * Töövoo parandamine
 * Pidev parendamine
 * Kliendi rahulolu suurendamine
+* Tööprotsesside lihtsustamine
