@@ -25,3 +25,4 @@ Kooli veebilehe loomine on projekt, millel on eesmärk, tähtaeg ja meeskond.
 | Ressursside puudus    | Aeglasem areng           |
 | Vigane planeerimine   | Lisakulud                |
 | Suhtlusprobleemid     | Arusaamatused meeskonnas |
+| Eelarve ületamine     | Suuremad kulud           |
